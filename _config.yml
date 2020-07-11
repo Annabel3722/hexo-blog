@@ -84,10 +84,7 @@ encrypt:
   password: dgut199712
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@git.coding.net:Annabel/blog.git
-  branch: coding-pages
+
  #ADD
 number_title:
   enable: true
