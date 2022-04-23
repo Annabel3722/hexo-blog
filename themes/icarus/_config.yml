@@ -110,8 +110,8 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: valine
-    app_id: chu7o42gLWrhnGKiOLktqfUt-gzGzoHsz
-    app_key: P6QYqYLIStbBc5I0tOXaiFdY
+    app_id: 8L8lqVn8sCWD0PklF2gcN8Mt-gzGzoHsz
+    app_key: wO9LXjmGhNihzyrUpmTUqJwT
     notify: true
     verify: true
 # Donate plugin configurations
@@ -171,7 +171,7 @@ widgets:
         # Author name
         author: Annabel
         # Author title
-        author_title: Python，记录
+        author_title: 
         # Author's current location
         location: Zhanjiang,China
         # URL or path to the avatar image
