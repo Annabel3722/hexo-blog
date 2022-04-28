@@ -3,7 +3,8 @@ title: Python访问微信好友的打开方式
 post.intro: 简单介绍两个python的处理微信接口的模块
 comments: true
 tags: Python
-permalink: 1514739600
+permalink: 1514739600.html
+abbrlink: 2991835141
 date: 2018-01-01 01:00:00
 ---
 简单介绍两个python的处理微信接口的模块

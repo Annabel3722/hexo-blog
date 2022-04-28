@@ -3,7 +3,8 @@ title: Python批量处理中文文本并解析关键词
 tags:
   - Python
   - 数据处理
-permalink: 1518136467
+permalink: 1518136467.html
+abbrlink: 368068859
 date: 2018-02-09 08:34:27
 ---
 介绍几个处理文本的模块。

@@ -3,7 +3,8 @@ title: Python装饰器笔记
 intro: 装饰器，Python的语法糖
 tags: Python
 comments: true
-permalink: 1516704438
+permalink: 1516704438.html
+abbrlink: 2005826191
 date: 2018-01-23 18:47:18
 ---
 装饰器，Python的语法糖

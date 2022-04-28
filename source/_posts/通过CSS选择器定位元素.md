@@ -1,7 +1,8 @@
 ---
-permalink: 1650697899
+permalink: 1650697899.html
 title: 通过CSS选择器定位元素
 tags: 学习笔记
+abbrlink: 417108390
 date: 2022-04-23 15:11:39
 ---
 如何以CSS选择器去定位页面上的元素
@@ -41,4 +42,4 @@ document.querySelectorAll('span:has(> .red)') // 选择拥有class="red"的<span
 
 现在组件复用前端页面中非常常见，因此定位时尽量不用一些常规的class，比如class = "select"，class = "finger"，尽量用一些这个组件特有的，以产品功能定义作为class命名的最佳。
 
-如果遇到一些经过循环渲染的元素，个人认为，比较好的方式是通过索引和文案可以达到精准定位。
+如果遇到一些经过循环渲染的元素，个人认为，比较好的方式是通过索引和文案达到精准定位。
